@@ -4,5 +4,5 @@ Hi, basicly I betrayed game development to front-end web development.
 
 - 💪 Confident in Vue family framework, Nuxt, Quasar, you name it
 - 🎨 Eager in designing interaction between human and computer
-- 💻 Currently working on [telkomsigma](https://www.telkomsigma.co.id/) private project
+- 💻 Currently working on CSG Quote & Order
 - 📫 reach me: ariowidiatmoko@gmail.com
